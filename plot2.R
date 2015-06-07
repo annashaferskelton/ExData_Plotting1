@@ -1,4 +1,4 @@
-# bigData <- read.table("household_power_consumption.txt",header=TRUE,sep=";")
+bigData <- read.table("household_power_consumption.txt",header=TRUE,sep=";")
 
 library(lubridate)
 
